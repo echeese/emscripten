@@ -136,4 +136,4 @@ def clear(ports, settings, shared):
 
 
 def show():
-  return 'sdl2 (-sUSE_SDL=3 or --use-port=sdl3; zlib license)'
+  return 'sdl3 (-sUSE_SDL=3 or --use-port=sdl3; zlib license)'
